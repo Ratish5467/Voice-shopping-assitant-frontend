@@ -10,7 +10,7 @@ import LoginModal from "./Pages/LoginModal";
 import { motion } from "framer-motion";
 import Home from "./Pages/Home"
 import Profile from "./Pages/Profile";
-import {Products} from "./Pages/Products";
+import Products from "./Pages/Products";
 export default function App() {
   return (
     <AuthProvider>
